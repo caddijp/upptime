@@ -4,8 +4,16 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: caddi.jp
+    url: https://caddi.jp
+  - name: corp.caddi.jp
+    url: https://corp.caddi.jp/
   - name: caddi.tech
     url: https://caddi.tech
+  - name: caddi.rs
+    url: https://caddi.rs
+  - name: caddiinc.com
+    url: https://caddiinc.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
