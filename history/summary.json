@@ -76,17 +76,19 @@
     "url": "https://caddiinc.com/",
     "icon": "https://favicons.githubusercontent.com/caddiinc.com",
     "slug": "caddiinc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2525,
-    "timeDay": 2790,
-    "timeWeek": 2599,
-    "timeMonth": 2525,
-    "timeYear": 2525,
-    "dailyMinutesDown": {}
+    "time": 3621,
+    "timeDay": 12516,
+    "timeWeek": 5054,
+    "timeMonth": 3621,
+    "timeYear": 3621,
+    "dailyMinutesDown": {
+      "2021-02-06": 0
+    }
   }
 ]
