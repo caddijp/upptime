@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 987,
-    "timeDay": 974,
-    "timeWeek": 893,
-    "timeMonth": 927,
-    "timeYear": 987,
+    "time": 986,
+    "timeDay": 957,
+    "timeWeek": 886,
+    "timeMonth": 930,
+    "timeYear": 986,
     "dailyMinutesDown": {
       "2021-03-17": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 909,
-    "timeDay": 944,
-    "timeWeek": 865,
-    "timeMonth": 901,
-    "timeYear": 909,
+    "time": 908,
+    "timeDay": 801,
+    "timeWeek": 854,
+    "timeMonth": 899,
+    "timeYear": 908,
     "dailyMinutesDown": {
       "2021-03-17": 29
     }
@@ -46,14 +46,14 @@
     "slug": "caddi-tech",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1015,
-    "timeDay": 849,
-    "timeWeek": 890,
-    "timeMonth": 959,
+    "timeDay": 1052,
+    "timeWeek": 894,
+    "timeMonth": 960,
     "timeYear": 1015,
     "dailyMinutesDown": {
       "2021-04-26": 10
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 368,
-    "timeDay": 492,
-    "timeWeek": 615,
-    "timeMonth": 390,
-    "timeYear": 368,
+    "time": 373,
+    "timeDay": 932,
+    "timeWeek": 687,
+    "timeMonth": 412,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2021-03-17": 28
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 3281,
-    "timeDay": 2784,
-    "timeWeek": 2453,
-    "timeMonth": 3432,
-    "timeYear": 3281,
+    "time": 3277,
+    "timeDay": 2788,
+    "timeWeek": 2491,
+    "timeMonth": 3444,
+    "timeYear": 3277,
     "dailyMinutesDown": {
       "2021-03-13": 11,
       "2021-02-06": 34
