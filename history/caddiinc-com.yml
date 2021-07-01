@@ -1,7 +1,7 @@
 url: https://caddiinc.com/
-status: up
-code: 200
-responseTime: 2851
-lastUpdated: 2021-06-30T23:05:35.766Z
+status: down
+code: 500
+responseTime: 6018
+lastUpdated: 2021-07-01T05:54:53.598Z
 startTime: Fri Jan 22 2021 01:40:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
